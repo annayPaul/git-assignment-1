@@ -14,10 +14,14 @@
   -   `--hard`: Restores the desired commit in the modifies the staging area & working directory as well 
 ### Squash
 ![image](https://github.com/annayPaul/git-assignment-1/assets/168059220/6f3644be-35df-4954-b039-b7594eae1eb1)
+
+
 Squashed 3 commits into 1. Stored those 3 commits the the "squash" branch
 
 ### Delete
 ![image](https://github.com/annayPaul/git-assignment-1/assets/168059220/085ad02b-6ff6-4767-9f00-0acebd890d8e)
+
+
 Deleted a file
 ### Stash
 ![image](https://github.com/annayPaul/git-assignment-1/assets/168059220/5eb99880-b754-4369-bd1a-6758c96162bb)
