@@ -1,5 +1,5 @@
 n = int(input())
-
+# calculates n!
 def factorial(number):
     if number <= 1:
         return 1
