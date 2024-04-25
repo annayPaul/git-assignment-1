@@ -12,4 +12,4 @@ def fibonacci(number):
         return number
     return fibonacci(number-1) + fibonacci(number)
 
-print(factorial(n))
+print(f'Factorial of the number {n} is {factorial(n)}')
