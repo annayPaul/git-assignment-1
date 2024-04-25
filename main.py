@@ -13,4 +13,4 @@ def fibonacci(number):
     return fibonacci(number-1) + fibonacci(number)
 
 print(f'Factorial of the number {n} is {factorial(n)}')
-print(f'The {n}th fibonaaci number is {factorial(n)}')
+print(f'The {n}th fibonaaci number is {fibonaaci(n)}')
